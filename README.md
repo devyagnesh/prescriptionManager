@@ -4,5 +4,8 @@ iOptical is an Shopping Android Mobile Application for Glasses and lenses.
 ```
 <b> Developed By: </b>
 ```
-Majed Ahmed
+Yagnesh Chavda
+Maulik Mer
+Ram Dudhaiya
+Harsh Mehta
 ```
